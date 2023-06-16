@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ciąg Fibonacciego/1.0.0": {
+        "runtime": {
+          "Ciąg Fibonacciego.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ciąg Fibonacciego/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

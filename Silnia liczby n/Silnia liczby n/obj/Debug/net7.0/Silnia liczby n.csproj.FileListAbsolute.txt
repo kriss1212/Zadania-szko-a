@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\bin\Debug\net7.0\Silnia liczby n.exe
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\bin\Debug\net7.0\Silnia liczby n.deps.json
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\bin\Debug\net7.0\Silnia liczby n.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\bin\Debug\net7.0\Silnia liczby n.dll
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\bin\Debug\net7.0\Silnia liczby n.pdb
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\obj\Debug\net7.0\Silnia liczby n.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\obj\Debug\net7.0\Silnia liczby n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\obj\Debug\net7.0\Silnia liczby n.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\obj\Debug\net7.0\Silnia liczby n.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\obj\Debug\net7.0\Silnia liczby n.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\obj\Debug\net7.0\Silnia liczby n.dll
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\obj\Debug\net7.0\refint\Silnia liczby n.dll
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\obj\Debug\net7.0\Silnia liczby n.pdb
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\obj\Debug\net7.0\Silnia liczby n.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\Silnia liczby n\Silnia liczby n\obj\Debug\net7.0\ref\Silnia liczby n.dll

@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\bin\Debug\net7.0\Zgadywanka.exe
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\bin\Debug\net7.0\Zgadywanka.deps.json
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\bin\Debug\net7.0\Zgadywanka.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\bin\Debug\net7.0\Zgadywanka.dll
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\bin\Debug\net7.0\Zgadywanka.pdb
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\obj\Debug\net7.0\Zgadywanka.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\obj\Debug\net7.0\Zgadywanka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\obj\Debug\net7.0\Zgadywanka.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\obj\Debug\net7.0\Zgadywanka.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\obj\Debug\net7.0\Zgadywanka.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\obj\Debug\net7.0\Zgadywanka.dll
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\obj\Debug\net7.0\refint\Zgadywanka.dll
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\obj\Debug\net7.0\Zgadywanka.pdb
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\obj\Debug\net7.0\Zgadywanka.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\Zgadywanka\Zgadywanka\obj\Debug\net7.0\ref\Zgadywanka.dll

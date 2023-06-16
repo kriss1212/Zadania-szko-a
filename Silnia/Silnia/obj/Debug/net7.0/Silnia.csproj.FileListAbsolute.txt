@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\bin\Debug\net7.0\Silnia.exe
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\bin\Debug\net7.0\Silnia.deps.json
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\bin\Debug\net7.0\Silnia.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\bin\Debug\net7.0\Silnia.dll
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\bin\Debug\net7.0\Silnia.pdb
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\obj\Debug\net7.0\Silnia.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\obj\Debug\net7.0\Silnia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\obj\Debug\net7.0\Silnia.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\obj\Debug\net7.0\Silnia.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\obj\Debug\net7.0\Silnia.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\obj\Debug\net7.0\Silnia.dll
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\obj\Debug\net7.0\refint\Silnia.dll
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\obj\Debug\net7.0\Silnia.pdb
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\obj\Debug\net7.0\Silnia.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\Silnia\Silnia\obj\Debug\net7.0\ref\Silnia.dll

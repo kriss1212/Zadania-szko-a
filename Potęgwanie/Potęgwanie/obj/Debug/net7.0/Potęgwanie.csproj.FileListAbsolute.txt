@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\obj\Debug\net7.0\Potęgwanie.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\obj\Debug\net7.0\Potęgwanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\obj\Debug\net7.0\Potęgwanie.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\obj\Debug\net7.0\Potęgwanie.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\obj\Debug\net7.0\Potęgwanie.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\bin\Debug\net7.0\Potęgwanie.exe
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\bin\Debug\net7.0\Potęgwanie.deps.json
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\bin\Debug\net7.0\Potęgwanie.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\bin\Debug\net7.0\Potęgwanie.dll
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\bin\Debug\net7.0\Potęgwanie.pdb
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\obj\Debug\net7.0\Potęgwanie.dll
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\obj\Debug\net7.0\refint\Potęgwanie.dll
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\obj\Debug\net7.0\Potęgwanie.pdb
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\obj\Debug\net7.0\Potęgwanie.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\Potęgwanie\Potęgwanie\obj\Debug\net7.0\ref\Potęgwanie.dll
